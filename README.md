@@ -123,23 +123,6 @@ An intelligent healthcare platform that helps users identify the appropriate med
 
 ---
 
-# GitHub Statistics
-
-<p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Hala-Jebreel&show_icons=true&theme=transparent"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hala-Jebreel&layout=compact&theme=transparent"
-/>
-
-</p>
-
----
 
 # Let's Connect
 

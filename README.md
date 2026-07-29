@@ -1,100 +1,170 @@
-<h1 align="center">Hi 👋, I'm Hala Jebreel</h1>
-<h3 align="center">Computer Engineer | AI & Software Engineer</h3>
+<h1 align="center">Hi, I'm Hala Jebreel 👋</h1>
+
+<h3 align="center">
+Computer Engineer • AI Engineer • Software Developer
+</h3>
+
+<p align="center">
+Passionate about Artificial Intelligence, Software Engineering, and building impactful technology.
+</p>
 
 ---
 
-## About Me
+# About Me
 
-Computer Engineering graduate from **Birzeit University** with a passion for Artificial Intelligence, Software Engineering, and building impactful solutions.
+I'm a Computer Engineering graduate from **Birzeit University** with a passion for Artificial Intelligence and Software Engineering.
 
-I enjoy turning ideas into real-world applications using modern technologies while continuously learning and improving my skills.
+I enjoy building intelligent applications that solve real-world problems while continuously learning new technologies and improving my technical skills.
 
-Currently, I'm seeking opportunities where I can grow as a Software Engineer or AI Engineer.
+Currently, I'm looking for opportunities as an **AI Engineer**, **Software Engineer**, or **Full Stack Developer** where I can contribute, learn, and grow.
 
 ---
 
-## Experience
+# Experience
 
-### AI Trainee — ASAL Technologies
+## AI Trainee — ASAL Technologies
+
+**Summer Internship**
 
 - Worked within Microsoft's AI Division.
-- Built AI-powered applications.
+- Developed AI-powered applications.
 - Collaborated using GitHub and Azure DevOps.
-- Worked in Agile/Scrum development environments.
+- Participated in Agile/Scrum development.
+- Worked closely with software engineers to build production-ready solutions.
 
 ---
 
-## Featured Project
+# Graduation Project
 
-### AI-Powered HealthMate
+## AI-Powered HealthMate
 
-An AI-powered healthcare assistant that helps users identify the appropriate medical specialty based on symptoms and locate nearby hospitals, clinics, pharmacies, and doctors.
+An intelligent healthcare platform that helps users identify the appropriate medical specialty based on symptoms and locate nearby healthcare facilities.
 
-**Tech Stack**
+### Features
+
+- AI Symptom Analysis
+- Medical Specialty Recommendation
+- Nearby Hospitals
+- Nearby Clinics
+- Nearby Pharmacies
+- Interactive Maps
+- Arabic & English Support
+- Secure User Authentication
+
+### Technologies
 
 - Python
 - FastAPI
 - React
 - MongoDB
 - Machine Learning
-- Leaflet
-- Git & GitHub
+- Leaflet Maps
+- Git
+- GitHub
 
 ---
 
-## Tech Stack
+# Technical Skills
+
+### Programming Languages
 
 <p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python"/>
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java"/>
+### Backend
 
-<img src="https://skillicons.dev/icons?i=react"/>
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=js"/>
+### Tools
 
-<img src="https://skillicons.dev/icons?i=html"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,azure,postman" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=css"/>
+---
 
-<img src="https://skillicons.dev/icons?i=fastapi"/>
+# Leadership
 
-<img src="https://skillicons.dev/icons?i=mongodb"/>
+## Marketing Team Head — Ka3kesh Community
 
-<img src="https://skillicons.dev/icons?i=git"/>
+- Led the Marketing Team.
+- Managed social media campaigns.
+- Organized community events.
+- Collaborated with technical and event teams.
+- Helped promote engineering initiatives and student activities.
 
-<img src="https://skillicons.dev/icons?i=github"/>
+---
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+# Certifications
 
-<img src="https://skillicons.dev/icons?i=figma"/>
+- AI Training — ASAL Technologies
+- GitHub Certification
+- Microsoft Training Certificate
+- University Excellence Certificate
 
-<img src="https://skillicons.dev/icons?i=azure"/>
+---
+
+# Currently Learning
+
+- Large Language Models (LLMs)
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- Cloud AI Services
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=Hala-Jebreel&show_icons=true&theme=transparent"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hala-Jebreel&layout=compact&theme=transparent"
+/>
 
 </p>
 
 ---
 
-## Leadership
+# Let's Connect
 
-**Marketing Team Head — Ka3kesh Community**
+<p>
 
-Led the marketing team, managed social media campaigns, organized community events, and collaborated with different teams to promote technical initiatives.
+<a href="https://www.linkedin.com/in/hala-jebreel-5089a1327/">
+LinkedIn
+</a>
+
+<br>
+
+<a href="https://github.com/Hala-Jebreel">
+GitHub
+</a>
+
+<br>
+
+📧 Email: YOUR_EMAIL@gmail.com
+
+</p>
 
 ---
 
-## GitHub Stats
+<p align="center">
 
-![Hala's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hala-Jebreel&show_icons=true)
+<i>"Building technology that makes a real impact."</i>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hala-Jebreel&layout=compact)
-
----
-
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/hala-jebreel-5089a1327/
-- GitHub: https://github.com/Hala-Jebreel
+</p>

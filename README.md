@@ -157,14 +157,8 @@ GitHub
 
 <br>
 
-📧 Email: YOUR_EMAIL@gmail.com
+📧 Email: hamedjana52@gmail.com
 
 </p>
 
----
 
-<p align="center">
-
-<i>"Building technology that makes a real impact."</i>
-
-</p>
